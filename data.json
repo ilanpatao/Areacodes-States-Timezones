@@ -1,0 +1,1700 @@
+[
+ {
+   "areacode": 205,
+   "state": "Alabama",
+   "statecode": "AL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 251,
+   "state": "Alabama",
+   "statecode": "AL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 256,
+   "state": "Alabama",
+   "statecode": "AL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 334,
+   "state": "Alabama",
+   "statecode": "AL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 907,
+   "state": "Alaska",
+   "statecode": "AK",
+   "timezone": "AKST"
+ },
+ {
+   "areacode": 480,
+   "state": "Arizona",
+   "statecode": "AZ",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 520,
+   "state": "Arizona",
+   "statecode": "AZ",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 602,
+   "state": "Arizona",
+   "statecode": "AZ",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 623,
+   "state": "Arizona",
+   "statecode": "AZ",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 928,
+   "state": "Arizona",
+   "statecode": "AZ",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 479,
+   "state": "Arkansas",
+   "statecode": "AR",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 501,
+   "state": "Arkansas",
+   "statecode": "AR",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 870,
+   "state": "Arkansas",
+   "statecode": "AR",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 209,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 213,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 310,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 323,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 408,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 415,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 424,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 510,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 530,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 559,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 562,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 619,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 626,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 650,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 661,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 707,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 714,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 760,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 805,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 818,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 831,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 858,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 909,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 916,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 925,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 949,
+   "state": "California",
+   "statecode": "CA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 303,
+   "state": "Colorado",
+   "statecode": "CO",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 719,
+   "state": "Colorado",
+   "statecode": "CO",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 720,
+   "state": "Colorado",
+   "statecode": "CO",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 970,
+   "state": "Colorado",
+   "statecode": "CO",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 203,
+   "state": "Connecticut",
+   "statecode": "CT",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 475,
+   "state": "Connecticut",
+   "statecode": "CT",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 860,
+   "state": "Connecticut",
+   "statecode": "CT",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 959,
+   "state": "Connecticut",
+   "statecode": "CT",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 302,
+   "state": "Delaware",
+   "statecode": "DE",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 239,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 305,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 321,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 352,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 386,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 407,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 561,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 727,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 754,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 772,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 786,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 813,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 850,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 863,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 904,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 941,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 954,
+   "state": "Florida",
+   "statecode": "FL",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 229,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 404,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 470,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 478,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 678,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 706,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 770,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 912,
+   "state": "Georgia",
+   "statecode": "GA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 808,
+   "state": "Hawaii",
+   "statecode": "HI",
+   "timezone": "HST"
+ },
+ {
+   "areacode": 208,
+   "state": "Idaho",
+   "statecode": "ID",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 217,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 224,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 309,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 312,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 331,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 464,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 618,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 630,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 708,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 773,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 815,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 847,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 872,
+   "state": "Illinois",
+   "statecode": "IL",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 219,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 260,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 317,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 574,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 765,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 812,
+   "state": "Indiana",
+   "statecode": "IN",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 319,
+   "state": "Iowa",
+   "statecode": "IA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 515,
+   "state": "Iowa",
+   "statecode": "IA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 563,
+   "state": "Iowa",
+   "statecode": "IA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 641,
+   "state": "Iowa",
+   "statecode": "IA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 712,
+   "state": "Iowa",
+   "statecode": "IA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 316,
+   "state": "Kansas",
+   "statecode": "KS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 620,
+   "state": "Kansas",
+   "statecode": "KS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 785,
+   "state": "Kansas",
+   "statecode": "KS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 913,
+   "state": "Kansas",
+   "statecode": "KS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 270,
+   "state": "Kentucky",
+   "statecode": "KY",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 502,
+   "state": "Kentucky",
+   "statecode": "KY",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 606,
+   "state": "Kentucky",
+   "statecode": "KY",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 859,
+   "state": "Kentucky",
+   "statecode": "KY",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 225,
+   "state": "Louisiana",
+   "statecode": "LA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 318,
+   "state": "Louisiana",
+   "statecode": "LA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 337,
+   "state": "Louisiana",
+   "statecode": "LA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 504,
+   "state": "Louisiana",
+   "statecode": "LA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 985,
+   "state": "Louisiana",
+   "statecode": "LA",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 207,
+   "state": "Maine",
+   "statecode": "ME",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 227,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 240,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 301,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 410,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 443,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 667,
+   "state": "Maryland",
+   "statecode": "MD",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 339,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 351,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 413,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 508,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 617,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 774,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 781,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 857,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 978,
+   "state": "Massachusetts",
+   "statecode": "MA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 231,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 248,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 269,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 313,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 517,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 586,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 616,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 734,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 810,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 906,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 947,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 989,
+   "state": "Michigan",
+   "statecode": "MI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 218,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 320,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 507,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 612,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 651,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 763,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 952,
+   "state": "Minnesota",
+   "statecode": "MN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 228,
+   "state": "Mississippi",
+   "statecode": "MS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 601,
+   "state": "Mississippi",
+   "statecode": "MS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 662,
+   "state": "Mississippi",
+   "statecode": "MS",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 314,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 417,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 557,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 573,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 636,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 660,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 816,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 975,
+   "state": "Missouri",
+   "statecode": "MO",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 406,
+   "state": "Montana",
+   "statecode": "MT",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 308,
+   "state": "Nebraska",
+   "statecode": "NE",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 402,
+   "state": "Nebraska",
+   "statecode": "NE",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 702,
+   "state": "Nevada",
+   "statecode": "NV",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 775,
+   "state": "Nevada",
+   "statecode": "NV",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 603,
+   "state": "New Hampshire",
+   "statecode": "NH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 201,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 551,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 609,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 732,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 848,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 856,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 862,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 908,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 973,
+   "state": "New Jersey",
+   "statecode": "NJ",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 505,
+   "state": "New Mexico",
+   "statecode": "NM",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 212,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 315,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 347,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 516,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 518,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 585,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 607,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 631,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 646,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 716,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 718,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 845,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 914,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 917,
+   "state": "New York",
+   "statecode": "NY",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 252,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 336,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 704,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 828,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 910,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 919,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 980,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 984,
+   "state": "North Carolina",
+   "statecode": "NC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 701,
+   "state": "North Dakota",
+   "statecode": "ND",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 216,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 234,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 283,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 330,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 419,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 440,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 513,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 567,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 614,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 740,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 937,
+   "state": "Ohio",
+   "statecode": "OH",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 405,
+   "state": "Oklahoma",
+   "statecode": "OK",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 580,
+   "state": "Oklahoma",
+   "statecode": "OK",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 918,
+   "state": "Oklahoma",
+   "statecode": "OK",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 503,
+   "state": "Oregon",
+   "statecode": "OR",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 541,
+   "state": "Oregon",
+   "statecode": "OR",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 971,
+   "state": "Oregon",
+   "statecode": "OR",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 215,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 267,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 412,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 445,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 484,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 570,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 610,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 717,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 724,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 814,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 835,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 878,
+   "state": "Pennsylvania",
+   "statecode": "PA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 401,
+   "state": "Rhode Island",
+   "statecode": "RI",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 803,
+   "state": "South Carolina",
+   "statecode": "SC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 843,
+   "state": "South Carolina",
+   "statecode": "SC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 864,
+   "state": "South Carolina",
+   "statecode": "SC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 605,
+   "state": "South Dakota",
+   "statecode": "SD",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 423,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 615,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 731,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 865,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 901,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 931,
+   "state": "Tennessee",
+   "statecode": "TN",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 210,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 214,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 254,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 281,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 361,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 409,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 469,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 512,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 682,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 713,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 737,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 806,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 817,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 830,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 832,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 903,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 915,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 936,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 940,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 956,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 972,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 979,
+   "state": "Texas",
+   "statecode": "TX",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 435,
+   "state": "Utah",
+   "statecode": "UT",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 801,
+   "state": "Utah",
+   "statecode": "UT",
+   "timezone": "MST"
+ },
+ {
+   "areacode": 802,
+   "state": "Vermont",
+   "statecode": "VT",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 276,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 434,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 540,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 571,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 703,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 757,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 804,
+   "state": "Virginia",
+   "statecode": "VA",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 206,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 253,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 360,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 425,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 509,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 564,
+   "state": "Washington",
+   "statecode": "WA",
+   "timezone": "PST"
+ },
+ {
+   "areacode": 202,
+   "state": "Washington,DC",
+   "statecode": "DC",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 304,
+   "state": "West Virginia",
+   "statecode": "WV",
+   "timezone": "EST"
+ },
+ {
+   "areacode": 262,
+   "state": "Wisconsin",
+   "statecode": "WI",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 414,
+   "state": "Wisconsin",
+   "statecode": "WI",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 608,
+   "state": "Wisconsin",
+   "statecode": "WI",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 715,
+   "state": "Wisconsin",
+   "statecode": "WI",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 920,
+   "state": "Wisconsin",
+   "statecode": "WI",
+   "timezone": "CST"
+ },
+ {
+   "areacode": 307,
+   "state": "Wyoming",
+   "statecode": "WY",
+   "timezone": "MST"
+ }
+]

@@ -1,0 +1,284 @@
+areacode,state,statecode,timezone
+205,Alabama,AL,CST
+251,Alabama,AL,CST
+256,Alabama,AL,CST
+334,Alabama,AL,CST
+907,Alaska,AK,AKST
+480,Arizona,AZ,MST
+520,Arizona,AZ,MST
+602,Arizona,AZ,MST
+623,Arizona,AZ,MST
+928,Arizona,AZ,MST
+479,Arkansas,AR,CST
+501,Arkansas,AR,CST
+870,Arkansas,AR,CST
+209,California,CA,PST
+213,California,CA,PST
+310,California,CA,PST
+323,California,CA,PST
+408,California,CA,PST
+415,California,CA,PST
+424,California,CA,PST
+510,California,CA,PST
+530,California,CA,PST
+559,California,CA,PST
+562,California,CA,PST
+619,California,CA,PST
+626,California,CA,PST
+650,California,CA,PST
+661,California,CA,PST
+707,California,CA,PST
+714,California,CA,PST
+760,California,CA,PST
+805,California,CA,PST
+818,California,CA,PST
+831,California,CA,PST
+858,California,CA,PST
+909,California,CA,PST
+916,California,CA,PST
+925,California,CA,PST
+949,California,CA,PST
+303,Colorado,CO,MST
+719,Colorado,CO,MST
+720,Colorado,CO,MST
+970,Colorado,CO,MST
+203,Connecticut,CT,EST
+475,Connecticut,CT,EST
+860,Connecticut,CT,EST
+959,Connecticut,CT,EST
+302,Delaware,DE,EST
+239,Florida,FL,EST
+305,Florida,FL,EST
+321,Florida,FL,EST
+352,Florida,FL,EST
+386,Florida,FL,EST
+407,Florida,FL,EST
+561,Florida,FL,EST
+727,Florida,FL,EST
+754,Florida,FL,EST
+772,Florida,FL,EST
+786,Florida,FL,EST
+813,Florida,FL,EST
+850,Florida,FL,EST
+863,Florida,FL,EST
+904,Florida,FL,EST
+941,Florida,FL,EST
+954,Florida,FL,EST
+229,Georgia,GA,EST
+404,Georgia,GA,EST
+470,Georgia,GA,EST
+478,Georgia,GA,EST
+678,Georgia,GA,EST
+706,Georgia,GA,EST
+770,Georgia,GA,EST
+912,Georgia,GA,EST
+808,Hawaii,HI,HST
+208,Idaho,ID,MST
+217,Illinois,IL,CST
+224,Illinois,IL,CST
+309,Illinois,IL,CST
+312,Illinois,IL,CST
+331,Illinois,IL,CST
+464,Illinois,IL,CST
+618,Illinois,IL,CST
+630,Illinois,IL,CST
+708,Illinois,IL,CST
+773,Illinois,IL,CST
+815,Illinois,IL,CST
+847,Illinois,IL,CST
+872,Illinois,IL,CST
+219,Indiana,IN,EST
+260,Indiana,IN,EST
+317,Indiana,IN,EST
+574,Indiana,IN,EST
+765,Indiana,IN,EST
+812,Indiana,IN,EST
+319,Iowa,IA,CST
+515,Iowa,IA,CST
+563,Iowa,IA,CST
+641,Iowa,IA,CST
+712,Iowa,IA,CST
+316,Kansas,KS,CST
+620,Kansas,KS,CST
+785,Kansas,KS,CST
+913,Kansas,KS,CST
+270,Kentucky,KY,CST
+502,Kentucky,KY,CST
+606,Kentucky,KY,CST
+859,Kentucky,KY,CST
+225,Louisiana,LA,CST
+318,Louisiana,LA,CST
+337,Louisiana,LA,CST
+504,Louisiana,LA,CST
+985,Louisiana,LA,CST
+207,Maine,ME,EST
+227,Maryland,MD,EST
+240,Maryland,MD,EST
+301,Maryland,MD,EST
+410,Maryland,MD,EST
+443,Maryland,MD,EST
+667,Maryland,MD,EST
+339,Massachusetts,MA,EST
+351,Massachusetts,MA,EST
+413,Massachusetts,MA,EST
+508,Massachusetts,MA,EST
+617,Massachusetts,MA,EST
+774,Massachusetts,MA,EST
+781,Massachusetts,MA,EST
+857,Massachusetts,MA,EST
+978,Massachusetts,MA,EST
+231,Michigan,MI,EST
+248,Michigan,MI,EST
+269,Michigan,MI,EST
+313,Michigan,MI,EST
+517,Michigan,MI,EST
+586,Michigan,MI,EST
+616,Michigan,MI,EST
+734,Michigan,MI,EST
+810,Michigan,MI,EST
+906,Michigan,MI,EST
+947,Michigan,MI,EST
+989,Michigan,MI,EST
+218,Minnesota,MN,CST
+320,Minnesota,MN,CST
+507,Minnesota,MN,CST
+612,Minnesota,MN,CST
+651,Minnesota,MN,CST
+763,Minnesota,MN,CST
+952,Minnesota,MN,CST
+228,Mississippi,MS,CST
+601,Mississippi,MS,CST
+662,Mississippi,MS,CST
+314,Missouri,MO,CST
+417,Missouri,MO,CST
+557,Missouri,MO,CST
+573,Missouri,MO,CST
+636,Missouri,MO,CST
+660,Missouri,MO,CST
+816,Missouri,MO,CST
+975,Missouri,MO,CST
+406,Montana,MT,MST
+308,Nebraska,NE,CST
+402,Nebraska,NE,CST
+702,Nevada,NV,PST
+775,Nevada,NV,PST
+603,New Hampshire,NH,EST
+201,New Jersey,NJ,EST
+551,New Jersey,NJ,EST
+609,New Jersey,NJ,EST
+732,New Jersey,NJ,EST
+848,New Jersey,NJ,EST
+856,New Jersey,NJ,EST
+862,New Jersey,NJ,EST
+908,New Jersey,NJ,EST
+973,New Jersey,NJ,EST
+505,New Mexico,NM,MST
+212,New York,NY,EST
+315,New York,NY,EST
+347,New York,NY,EST
+516,New York,NY,EST
+518,New York,NY,EST
+585,New York,NY,EST
+607,New York,NY,EST
+631,New York,NY,EST
+646,New York,NY,EST
+716,New York,NY,EST
+718,New York,NY,EST
+845,New York,NY,EST
+914,New York,NY,EST
+917,New York,NY,EST
+252,North Carolina,NC,EST
+336,North Carolina,NC,EST
+704,North Carolina,NC,EST
+828,North Carolina,NC,EST
+910,North Carolina,NC,EST
+919,North Carolina,NC,EST
+980,North Carolina,NC,EST
+984,North Carolina,NC,EST
+701,North Dakota,ND,CST
+216,Ohio,OH,EST
+234,Ohio,OH,EST
+283,Ohio,OH,EST
+330,Ohio,OH,EST
+419,Ohio,OH,EST
+440,Ohio,OH,EST
+513,Ohio,OH,EST
+567,Ohio,OH,EST
+614,Ohio,OH,EST
+740,Ohio,OH,EST
+937,Ohio,OH,EST
+405,Oklahoma,OK,CST
+580,Oklahoma,OK,CST
+918,Oklahoma,OK,CST
+503,Oregon,OR,PST
+541,Oregon,OR,PST
+971,Oregon,OR,PST
+215,Pennsylvania,PA,EST
+267,Pennsylvania,PA,EST
+412,Pennsylvania,PA,EST
+445,Pennsylvania,PA,EST
+484,Pennsylvania,PA,EST
+570,Pennsylvania,PA,EST
+610,Pennsylvania,PA,EST
+717,Pennsylvania,PA,EST
+724,Pennsylvania,PA,EST
+814,Pennsylvania,PA,EST
+835,Pennsylvania,PA,EST
+878,Pennsylvania,PA,EST
+401,Rhode Island,RI,EST
+803,South Carolina,SC,EST
+843,South Carolina,SC,EST
+864,South Carolina,SC,EST
+605,South Dakota,SD,CST
+423,Tennessee,TN,CST
+615,Tennessee,TN,CST
+731,Tennessee,TN,CST
+865,Tennessee,TN,CST
+901,Tennessee,TN,CST
+931,Tennessee,TN,CST
+210,Texas,TX,CST
+214,Texas,TX,CST
+254,Texas,TX,CST
+281,Texas,TX,CST
+361,Texas,TX,CST
+409,Texas,TX,CST
+469,Texas,TX,CST
+512,Texas,TX,CST
+682,Texas,TX,CST
+713,Texas,TX,CST
+737,Texas,TX,CST
+806,Texas,TX,CST
+817,Texas,TX,CST
+830,Texas,TX,CST
+832,Texas,TX,CST
+903,Texas,TX,CST
+915,Texas,TX,CST
+936,Texas,TX,CST
+940,Texas,TX,CST
+956,Texas,TX,CST
+972,Texas,TX,CST
+979,Texas,TX,CST
+435,Utah,UT,MST
+801,Utah,UT,MST
+802,Vermont,VT,EST
+276,Virginia,VA,EST
+434,Virginia,VA,EST
+540,Virginia,VA,EST
+571,Virginia,VA,EST
+703,Virginia,VA,EST
+757,Virginia,VA,EST
+804,Virginia,VA,EST
+206,Washington,WA,PST
+253,Washington,WA,PST
+360,Washington,WA,PST
+425,Washington,WA,PST
+509,Washington,WA,PST
+564,Washington,WA,PST
+202,"Washington,DC",DC,EST
+304,West Virginia,WV,EST
+262,Wisconsin,WI,CST
+414,Wisconsin,WI,CST
+608,Wisconsin,WI,CST
+715,Wisconsin,WI,CST
+920,Wisconsin,WI,CST
+307,Wyoming,WY,MST
